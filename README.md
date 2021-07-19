@@ -10,4 +10,6 @@
   <img width="48" height="48" src="https://cdn.svgporn.com/logos/react.svg" />
 </p>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=devsimoes&theme=dark)](https://git.io/streak-stats)
+<p allign="center">
+  ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=devsimoes&theme=dark)
+</p>
