@@ -23,7 +23,6 @@
   <img width="48" height="48" src="https://cdn.svgporn.com/logos/c.svg" />
   <img width="48" height="48" src="https://cdn.svgporn.com/logos/c-plusplus.svg" />
   <img width="48" height="48" src="https://cdn.svgporn.com/logos/java.svg" />
-  <img width="48" height="48" src="https://cdn.svgporn.com/logos/vercel-icon.svg" />
 </p>
 
 ### Tools:
@@ -38,6 +37,7 @@
   <img width="48" height="48" src="https://cdn.svgporn.com/logos/yarn.svg" />
   <img width="48" height="48" src="https://cdn.svgporn.com/logos/git-icon.svg" />
   <img width="48" height="48" src="https://cdn.svgporn.com/logos/ubuntu.svg" />
+  <img width="48" height="48" src="https://cdn.svgporn.com/logos/vercel-icon.svg" />
 </p>
 
 <p align="center">
