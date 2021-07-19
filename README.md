@@ -41,8 +41,5 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=devsimoes&theme=dark" alt="Github Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=devsimoes&show_icons=true&theme=onedark" alt="Github Stats" />
 </p>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devsimoes&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devsimoes)](https://github.com/anuraghazra/github-readme-stats)
