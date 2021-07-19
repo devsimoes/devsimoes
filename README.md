@@ -11,5 +11,5 @@
 </p>
 
 <p allign="center">
-  ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=devsimoes&theme=dark)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=devsimoes&theme=dark)](https://git.io/streak-stats)
 </p>
