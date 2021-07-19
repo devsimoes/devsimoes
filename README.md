@@ -6,4 +6,6 @@
 
 ### Languages and tools:
 
-![React](https://cdn.svgporn.com/logos/react.svg)
+<p align="center">
+  ![React](https://cdn.svgporn.com/logos/react.svg) 
+</p>
