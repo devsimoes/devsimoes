@@ -37,7 +37,7 @@
   <img width="48" height="48" src="https://cdn.svgporn.com/logos/yarn.svg" />
   <img width="48" height="48" src="https://cdn.svgporn.com/logos/git-icon.svg" />
   <img width="48" height="48" src="https://cdn.svgporn.com/logos/ubuntu.svg" />
-  <img width="48" height="48" src="https://cdn.svgporn.com/logos/vercel-icon.svg" />
+  <img width="48" height="48" src="https://cdn.svgporn.com/logos/vercel.svg" />
 </p>
 
 <p align="center">
