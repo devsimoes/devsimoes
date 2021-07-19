@@ -44,6 +44,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=devsimoes&theme=dark" alt="Github Streak" />
   <img src="https://github-readme-stats.vercel.app/api?username=devsimoes&show_icons=true&theme=onedark" alt="Github Stats" />
 </p>
