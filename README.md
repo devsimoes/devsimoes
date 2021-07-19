@@ -42,3 +42,5 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=devsimoes&theme=dark" alt="Github Streak" />
 </p>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devsimoes&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
