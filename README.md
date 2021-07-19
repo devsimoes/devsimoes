@@ -7,5 +7,5 @@
 ### Languages and tools:
 
 <p align="center">
-  ![React](https://cdn.svgporn.com/logos/react.svg) 
+  <a href="/" target="_blank"><img width="48" height="48" src="https://cdn.svgporn.com/logos/react.svg /></a>
 </p>
