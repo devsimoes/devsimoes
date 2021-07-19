@@ -43,4 +43,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=devsimoes&theme=dark" alt="Github Streak" />
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devsimoes&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devsimoes&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
